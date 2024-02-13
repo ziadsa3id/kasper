@@ -7,7 +7,7 @@
 
 /*HEADER*/
 .header {
-    background-image: url(../images/landing.jpg);
+    background-image: url(images/landing.jpg);
     background-size: 100% 100%;
     background-position: center;
     width: 100%;
@@ -208,7 +208,7 @@
 
 /* PART 3 /////////////////////////////////////////////////////////////*/
 .design {
-    background-image: url(../images/design-features.jpg);
+    background-image: url(images/design-features.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -459,7 +459,7 @@
 
 /*stats///////////////////////////////////////////////////////////////////////*/
 .stats {
-    background-image: url(../images/stats.png);
+    background-image: url(images/stats.png);
     width: 100%;
     height: 400px;
     position: relative;
@@ -745,7 +745,7 @@
 /*data////////////////////////////////////////////////////////////////////*/
 .data {
     margin-top: 50px;
-    background-image: url(../images/quote.jpg);
+    background-image: url(images/quote.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
@@ -783,7 +783,7 @@
 /*subscribe/////////////////////////////////////////////////////////*/
 .subscribe {
     margin-top: 50px;
-    background-image: url(../images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     width: 100%;
     height: 400px;
     background-repeat: no-repeat;
@@ -919,7 +919,7 @@
 
 /*footer//////////////////////////////////////////////////////////////*/
 .footer {
-    background-image: url(../images/subscribe.jpg);
+    background-image: url(images/subscribe.jpg);
     width: 100%;
     height: 400px;
     background-repeat: no-repeat;
